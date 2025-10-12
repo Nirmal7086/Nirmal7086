@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Nirmal - Oracle DBA & Database Technologist
 
-<div align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Oracle+Database+Administrator;Database+Performance+Expert;Automation+%26+DevOps+Enthusiast" alt="Typing SVG" />
-</div>
+</p>
 
 ---
 
@@ -30,8 +30,7 @@
 
 ### 🛠️ Technology Stack
 
-<div align="center">
-
+<p align="center">
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -42,55 +41,43 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-</div>
-
----
-
-## 🏆 Recent Achievements & Projects
-
-🎯 **Database Automation Suite** - Developed comprehensive automation scripts for routine DBA tasks  
-🎯 **Oracle RAC Implementation** - Successfully deployed and optimized Oracle Real Application Clusters  
-🎯 **Data Guard Configuration** - Implemented disaster recovery solutions with Oracle Data Guard  
-🎯 **Performance Optimization** - Achieved significant performance improvements through advanced tuning  
-🎯 **Stock Portfolio Management System** - Built database backend for financial portfolio tracking  
-🎯 **Database Migration Projects** - Led multiple successful database migration initiatives  
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nirmal7086&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal7086&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nirmal7086&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal7086&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal7086&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal7086&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
 
-## 🎓 Certifications & Continuous Learning
+## 🏆 Recent Projects & Contributions
 
-📜 **Oracle Certified Professional** - Database Administration  
-📜 **Oracle RAC & Data Guard** - Advanced Implementation  
-📜 **Database Performance Tuning** - Expert Level  
-📚 **Currently Preparing:** CELPIP (English Language) & French Language Proficiency  
+- 🔹 Automated database backup and recovery solutions
+- 🔹 Performance optimization tools for Oracle databases
+- 🔹 Database monitoring dashboards using Python
+- 🔹 MongoDB cluster deployment automation
+- 🔹 Database migration scripts and tools
+
 📚 **Focus Areas:** Cloud Database Technologies, Fintech Database Solutions, AI/ML Integration  
 
 ---
 
 ## 🌐 Connect With Me
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmal7086)
+<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalpatelappsdba)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nirmal7086)
 [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://nirmal7086.github.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmal7086@gmail.com)
-
-</div>
+</p>
 
 ---
 
