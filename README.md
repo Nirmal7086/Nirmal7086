@@ -51,18 +51,62 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Nirmal7086&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nirmal7086&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 GitHub Activity
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nirmal7086&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🔥 Recent Projects & Contributions
+## 💻 Most Used Languages
 
-- 🔹 Oracle database performance optimization toolkit
-- 🔹 Automated backup and recovery scripts for RAC environments
-- 🔹 Database monitoring dashboards using Python
-- 🔹 MongoDB cluster deployment automation
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nirmal7086&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+## 🔥 Featured Projects
+
+### 🗄️ Database Automation Suite
+- Automated backup and monitoring scripts for Oracle databases
+- Shell and Python-based utilities for database health checks
+- Performance monitoring and alerting frameworks
+
+### 📊 Database Performance Analyzer
+- Tools for analyzing database performance metrics
+- AWR and ADDM report automation
+- Custom dashboards for database monitoring
+
+### 🔧 DevOps Database Tools
+- Database CI/CD pipeline scripts
+- Automated database deployment utilities
+- Infrastructure as Code for database environments
+
+---
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- Check out my technical blog at [Nirmal Oracle Apps](https://nirmaloracleapps.blogspot.com/)
+- Topics: Oracle Database Administration, Performance Tuning, Automation, and more
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 📚 Current Projects
+
 - 🔹 Database migration scripts and tools
 
 📚 **Focus Areas:** Cloud Database Technologies, Fintech Database Solutions, AI/ML Integration  
@@ -71,12 +115,10 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalpatelappsdba)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nirmal7086)
-  [![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://nirmaloracleapps.blogspot.com/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmal7086@gmail.com)
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nirmalpatelappsdba)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nirmal7086)
+[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://nirmaloracleapps.blogspot.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nirmal7086@gmail.com)
 
 ---
 
