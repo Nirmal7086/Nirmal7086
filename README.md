@@ -8,7 +8,7 @@ I'm currently working on Oracle AI Database 26ai upgrades and database automatio
 
 ## Tools I work with
 
-Datadog for observability; Kubernetes, Ansible and Terraform for infrastructure and automation; Kotlin, Snowflake and GitHub CI/CD.
+Datadog for observability; Kubernetes, Ansible and Terraform for infrastructure and automation; Kotlin, Snowflake, Preset and GitHub CI/CD.
 
 ## Lab work
 
